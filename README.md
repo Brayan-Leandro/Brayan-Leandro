@@ -1,4 +1,4 @@
-<h2 align="left">Olá, me chmao Brayan 🖐️😝🤚</h2>
+<h2 align="left">Olá, me chamo Brayan 🖐️😝🤚</h2>
 
 ###
 
